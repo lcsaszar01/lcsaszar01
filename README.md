@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lcsaszar01 (Lydia Csaszar)
 - 👀 I’m interested in Cloud Archatecture and IoT software
-- 🌱 I’m currently learning Operating Systems and 
+- 🌱 I’m currently taking Operating Systems 
 - 📫 lcsaszar01@saintmarys.edu
 
 <!---
