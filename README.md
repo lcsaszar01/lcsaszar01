@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lcsaszar01 (Lydia Csaszar)
-- 👀 I’m interested in Cloud Architecture, Network Engineering, and IoT hardware/software lifestyle applications
+- 👀 I’m interested in Cloud Architecture, Network Engineering, and ML algorithms
 - 🌱 I’m currently learning Ruby on Rails
 - 📫 lcsaszar01@saintmarys.edu
 
