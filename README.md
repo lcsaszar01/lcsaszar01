@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lcsaszar01 (Lydia Csaszar)
 - 👀 I’m interested in Cloud Architecture, Network Engineering, and ML algorithms
 - 🌱 I’m currently learning Ruby on Rails
+- 💻 I'm currently working as a contrubutor to the BrainiMAC project for MRI evaluation.
 - 📫 lcsaszar01@saintmarys.edu
 
 <!---
