@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lcsaszar01 (Lydia Csaszar)
-- 👀 I’m interested in Cloud Architecture, Network Engineering, and ML algorithms
-- 🌱 I’m currently learning Ruby on Rails
-- 💻 I'm currently working as a contrubutor to the BrainiMAC project for MRI evaluation.
-- 📫 lcsaszar01@saintmarys.edu
+- 👀 I’m interested in Machine Learning, Network Engineering, and Cloud Computing
+- 🌱 I’m currently learning JavaScript
+- 💻 I'm currently working as an Undergraduate Researcher in the University of Notre Dame CoMMaND Lab on a project for MRI tissue segmentation 
+- 📫 lcsaszar01@saintmarys.edu or lcsaszar@nd.edu
 
 <!---
 lcsaszar01/lcsaszar01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
