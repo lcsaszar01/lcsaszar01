@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lcsaszar01 (Lydia Csaszar)
-- 👀 I’m interested in Machine Learning, Network Engineering, and Cloud Computing
-- 🌱 I’m currently learning JavaScript
-- 💻 I'm currently an Undergraduate Researcher at the University of Notre Dame working under Dr. P.M. Kogge as part of the IARPA FORZA project. 
+- 👀 I’m interested in Machine Learning, Computer Architecture, and Cloud Computing.
+- 🌱 I’m currently learning JavaScript in what little free time I have
+- 💻 I'm an Undergraduate Researcher at the University of Notre Dame, working under Dr. P.M. Kogge as part of the IARPA FORZA project and Dr. M. Holland as part of the CoMMaND Lab. 
 - 📫 lcsaszar01@saintmarys.edu or lcsaszar@nd.edu
 
 <!---
